@@ -1,0 +1,6 @@
+click
+astroid
+rich
+pytest
+pytest-asyncio
+sqlite3
